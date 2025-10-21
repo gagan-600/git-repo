@@ -1,1 +1,3 @@
 hellow world !!!
+takr input from user
+add the value
